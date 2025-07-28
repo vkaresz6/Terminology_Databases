@@ -1,25 +1,53 @@
-{"source":"leaflet","target":"betegtájékoztató"}
-{"source":"capsules","target":"kapszula"}
-{"source":"tablets","target":"tabletta"}
-{"source":"infusion","target":"infúzió"}
-{"source":"oral suspension","target":"belsőleges szuszpenzió"}
-{"source":"doctor","target":"orvos"}
-{"source":"pharmacist","target":"gyógyszerész"}
-{"source":"medicines","target":"gyógyszerek"}
-{"source":"risks and benefits","target":"kockázatok és előnyök"}
-{"source":"active ingredient","target":"hatóanyag"}
-{"source":"mycophenolate mofetil","target":"mikofenolát-mofetil"}
-{"source":"immunosuppressants","target":"immunszuppresszánsok"}
-{"source":"transplanted organs","target":"átültetett szervek"}
-{"source":"immune system","target":"immunrendszer"}
-{"source":"rejection","target":"kilökődés"}
-{"source":"prescription","target":"recept"}
-{"source":"allergic reaction","target":"allergiás reakció"}
-{"source":"side effects","target":"mellékhatások"}
-{"source":"contraception","target":"fogamzásgátlás"}
-{"source":"pregnancy test","target":"terhességi teszt"}
-{"source":"dose","target":"adag"}
-{"source":"infection","target":"fertőzés"}
-{"source":"cancer","target":"rák"}
-{"source":"dizziness","target":"szédülés"}
-{"source":"expiry date","target":"lejárati dátum"}
+{"source":"CellCept","target":"CellCept","definition":"A medicine containing the active ingredient mycophenolate mofetil, belonging to a group of medicines called immunosuppressants."}
+{"source":"capsules","target":"kapszula","definition":"A form of CellCept for oral administration, to be swallowed whole."}
+{"source":"tablets","target":"tabletta","definition":"A form of CellCept for oral administration, to be swallowed whole."}
+{"source":"infusion","target":"infúzió","definition":"A method of administering CellCept, typically given as a 'drip' into a vein."}
+{"source":"oral suspension","target":"szájon át szedhető szuszpenzió","definition":"A liquid form of CellCept for oral administration, which needs to be shaken well before use."}
+{"source":"doctor","target":"orvos","definition":"A medical professional who prescribes and advises on medicines and treatment."}
+{"source":"pharmacist","target":"gyógyszerész","definition":"A professional who dispenses medicines and provides advice on their use."}
+{"source":"medicines","target":"gyógyszerek","definition":"Substances used for treating or preventing disease."}
+{"source":"active ingredient","target":"hatóanyag","definition":"The chemical component in a medicine responsible for its therapeutic effect."}
+{"source":"mycophenolate mofetil","target":"mikofenolát-mofetil","definition":"The active ingredient contained in CellCept."}
+{"source":"immunosuppressants","target":"immunszuppresszánsok","definition":"A group of medicines used to prevent rejection of transplanted organs by stopping the immune system from reacting."}
+{"source":"rejection of transplanted organs","target":"transzplantált szervek kilökődése","definition":"The process where the body's immune system attacks and tries to reject a transplanted organ."}
+{"source":"immune system","target":"immunrendszer","definition":"The body's natural defense mechanism against foreign substances and infections."}
+{"source":"prescription","target":"recept","definition":"A written order from a doctor required to obtain certain medicines."}
+{"source":"allergic reaction","target":"allergiás reakció","definition":"An adverse immune response to a substance, with symptoms like swelling, itching, rash, or breathing difficulties."}
+{"source":"unborn baby","target":"magzat","definition":"A developing human in the womb before birth, which CellCept can be harmful to."}
+{"source":"pregnant woman","target":"terhes nő","definition":"A woman who is carrying a developing fetus, for whom CellCept is harmful to the unborn baby."}
+{"source":"miscarriage","target":"vetélés","definition":"The spontaneous loss of a pregnancy, reported in cases of CellCept exposure during pregnancy."}
+{"source":"severe birth defects","target":"súlyos születési rendellenességek","definition":"Significant abnormalities present at birth, reported in cases of CellCept exposure during pregnancy."}
+{"source":"side effects","target":"mellékhatások","definition":"Unwanted or unintended effects that can occur from taking a medicine."}
+{"source":"contraception","target":"fogamzásgátlás","definition":"Methods used to prevent pregnancy, required during and after CellCept therapy for women of child bearing potential."}
+{"source":"therapy","target":"terápia","definition":"The treatment of disease or disorder using a medicine like CellCept."}
+{"source":"expiry date","target":"lejárati dátum","definition":"The date after which a medicine may not work as well or be safe to use."}
+{"source":"child bearing potential","target":"fogamzóképes korú nő","definition":"A woman who is capable of becoming pregnant, requiring specific precautions when taking CellCept."}
+{"source":"pregnancy test","target":"terhességi teszt","definition":"A test to determine if a woman is pregnant, required before and during CellCept treatment for women of child bearing potential."}
+{"source":"treatment","target":"kezelés","definition":"The application of medical care to a patient for an illness or injury, often involving medicines."}
+{"source":"blood tests","target":"vérvizsgálatok","definition":"Medical tests performed on a blood sample, often required regularly when taking CellCept."}
+{"source":"dose","target":"adag","definition":"A specified amount of a medicine to be taken at one time."}
+{"source":"body surface area","target":"testfelület","definition":"A measurement used to determine the appropriate daily dose of CellCept for children and adolescents."}
+{"source":"kidney transplant","target":"veseátültetés","definition":"The surgical procedure of replacing a diseased kidney with a healthy one, for which CellCept is used to prevent rejection."}
+{"source":"infection","target":"fertőzés","definition":"The invasion and multiplication of microorganisms in body tissues, which CellCept can make the body less able to fight."}
+{"source":"fever","target":"láz","definition":"An abnormally high body temperature, which can be a sign of infection."}
+{"source":"chills","target":"hidegrázás","definition":"A sensation of coldness, often accompanied by shivering, which can be a sign of infection."}
+{"source":"local inflammation","target":"helyi gyulladás","definition":"A localized protective response of the body to injury or infection, characterized by heat, redness, swelling, and pain."}
+{"source":"sore throat","target":"torokfájás","definition":"Pain or irritation of the throat, which can be a sign of infection."}
+{"source":"ulcers in the mouth","target":"szájüregi fekélyek","definition":"Open sores or lesions in the lining of the mouth, which can be a sign of infection."}
+{"source":"bruising","target":"véraláfutás","definition":"A discoloration of the skin resulting from bleeding underneath, which can be an unexpected side effect."}
+{"source":"bleeding","target":"vérzés","definition":"The escape of blood from the circulatory system, which can be an unexpected side effect."}
+{"source":"defence mechanisms","target":"védekező mechanizmusok","definition":"The body's natural systems that protect against disease and infection, which CellCept reduces."}
+{"source":"skin cancers","target":"bőrrák","definition":"Malignant growths on the skin, for which there may be a small increased risk when taking CellCept."}
+{"source":"somnolence","target":"álmosság","definition":"Drowsiness or a strong desire to sleep, which can be a side effect of CellCept."}
+{"source":"confusion","target":"zavartság","definition":"A state of disorientation or impaired thinking, which can be a side effect of CellCept."}
+{"source":"dizziness","target":"szédülés","definition":"A sensation of spinning or lightheadedness, which can be a side effect of CellCept."}
+{"source":"tremor","target":"remegés","definition":"An involuntary, rhythmic muscle contraction leading to shaking movements, which can be a side effect of CellCept."}
+{"source":"hypotension","target":"hipotenzió","definition":"Abnormally low blood pressure, which can be a side effect of CellCept."}
+{"source":"blister pack","target":"buborékcsomagolás","definition":"A type of packaging for medicines, typically consisting of a plastic bubble and a foil backing."}
+{"source":"moisture","target":"nedvesség","definition":"The presence of water, especially in the air, which CellCept capsules and tablets should be kept away from."}
+{"source":"temperature","target":"hőmérséklet","definition":"The degree or intensity of heat present, which is important for proper storage of CellCept."}
+{"source":"phenylalanine","target":"fenilalanin","definition":"An amino acid present in CellCept oral suspension, which may be a concern for some patients."}
+{"source":"gluten free","target":"gluténmentes","definition":"A characteristic indicating that CellCept capsules and tablets do not contain gluten."}
+{"source":"lactose free","target":"laktózmentes","definition":"A characteristic indicating that CellCept capsules and tablets do not contain lactose."}
+{"source":"Accident and Emergency centre","target":"Sürgősségi Osztály","definition":"A hospital department that provides immediate treatment for acute illnesses and injuries."}
+{"source":"Poisons Information Centre","target":"Toxikológiai Információs Központ","definition":"A center providing advice in cases of suspected poisoning or overdose."}
