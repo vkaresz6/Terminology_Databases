@@ -1,0 +1,25 @@
+{"source":"leaflet","target":"betegtájékoztató"}
+{"source":"capsules","target":"kapszula"}
+{"source":"tablets","target":"tabletta"}
+{"source":"infusion","target":"infúzió"}
+{"source":"oral suspension","target":"belsőleges szuszpenzió"}
+{"source":"doctor","target":"orvos"}
+{"source":"pharmacist","target":"gyógyszerész"}
+{"source":"medicines","target":"gyógyszerek"}
+{"source":"risks and benefits","target":"kockázatok és előnyök"}
+{"source":"active ingredient","target":"hatóanyag"}
+{"source":"mycophenolate mofetil","target":"mikofenolát-mofetil"}
+{"source":"immunosuppressants","target":"immunszuppresszánsok"}
+{"source":"transplanted organs","target":"átültetett szervek"}
+{"source":"immune system","target":"immunrendszer"}
+{"source":"rejection","target":"kilökődés"}
+{"source":"prescription","target":"recept"}
+{"source":"allergic reaction","target":"allergiás reakció"}
+{"source":"side effects","target":"mellékhatások"}
+{"source":"contraception","target":"fogamzásgátlás"}
+{"source":"pregnancy test","target":"terhességi teszt"}
+{"source":"dose","target":"adag"}
+{"source":"infection","target":"fertőzés"}
+{"source":"cancer","target":"rák"}
+{"source":"dizziness","target":"szédülés"}
+{"source":"expiry date","target":"lejárati dátum"}
