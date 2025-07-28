@@ -1,0 +1,229 @@
+{"source":"e-MedSolution","target":"e-MedSolution"}
+{"source":"Oldal","target":"Page"}
+{"source":"Esetszám","target":"Case Number"}
+{"source":"Nyomtatva","target":"Printed"}
+{"source":"Semmelweis Egyetem","target":"Semmelweis University"}
+{"source":"Transzplantációs Osztály","target":"Transplantation Department"}
+{"source":"Sebészeti, Transzplantációs és Gasz","target":"Surgical, Transplantation and Gastroenterology"}
+{"source":"ANTSZ kód","target":"ANTSZ code"}
+{"source":"Oszt.vez.","target":"Head of Department"}
+{"source":"Intézetvezetõ","target":"Institute Director"}
+{"source":"Tel.","target":"Phone"}
+{"source":"ZÁRÓJELENTÉS","target":"DISCHARGE SUMMARY"}
+{"source":"Beteg neve","target":"Patient's Name"}
+{"source":"Leánykori név","target":"Maiden Name"}
+{"source":"Törzsszám","target":"Registration Number"}
+{"source":"Neme","target":"Sex"}
+{"source":"Férfi","target":"Male"}
+{"source":"TAJ","target":"Social Security Number"}
+{"source":"Születési hely","target":"Place of Birth"}
+{"source":"Szül.dátum","target":"Date of Birth"}
+{"source":"Anyja neve","target":"Mother's Name"}
+{"source":"Tér.kateg.","target":"Ward Category"}
+{"source":"Állandó lakhely","target":"Permanent Address"}
+{"source":"Elérési cím","target":"Contact Address"}
+{"source":"Felvételi dátum","target":"Admission Date"}
+{"source":"Felv.típus","target":"Admission Type"}
+{"source":"Elbocsátás dátum","target":"Discharge Date"}
+{"source":"Elbocs.típ","target":"Discharge Type"}
+{"source":"Anamnézis","target":"Anamnesis"}
+{"source":"asthmás","target":"asthmatic"}
+{"source":"Tonsillectomia","target":"Tonsillectomy"}
+{"source":"appendectomia","target":"appendectomy"}
+{"source":"Haemangioma","target":"Hemangioma"}
+{"source":"bal kéz V.ujjon","target":"on the 5th finger of the left hand"}
+{"source":"ascitese","target":"ascites"}
+{"source":"alkoholos májbetegségét","target":"alcoholic liver disease"}
+{"source":"varix vérzés","target":"variceal bleeding"}
+{"source":"ligatió","target":"ligation"}
+{"source":"nyelõcsõ varicositas","target":"esophageal varices"}
+{"source":"TIPS beültetés","target":"TIPS implantation"}
+{"source":"hepaticus encephalopathiára","target":"hepatic encephalopathy"}
+{"source":"echocard. leletére","target":"echocardiography report"}
+{"source":"kórházi kezelése","target":"hospitalization"}
+{"source":"Gyógyszer-, étel-, kontrasztanyag érzékenysége","target":"Drug, food, contrast agent sensitivity"}
+{"source":"nem ismert","target":"not known"}
+{"source":"dohányzik","target":"smokes"}
+{"source":"Kórházi kezelése most nem volt","target":"No current hospitalization"}
+{"source":"általános állapota","target":"general condition"}
+{"source":"erõnléte","target":"physical strength"}
+{"source":"Étvágya","target":"Appetite"}
+{"source":"Széklete és vizelete normális","target":"Stool and urine normal"}
+{"source":"Láza, hõemelkedése nem volt","target":"No fever, no elevated temperature"}
+{"source":"Orra, fogínye nem vérzik","target":"Nose, gums do not bleed"}
+{"source":"Bõre csak idõnként viszket","target":"Skin only occasionally itches"}
+{"source":"transplant listán","target":"on transplant list"}
+{"source":"Sürgõs felvételére","target":"For urgent admission"}
+{"source":"multiorgan szervriadó kapcsán","target":"in connection with multi-organ alert"}
+{"source":"máj recipens jelöltként","target":"as a liver recipient candidate"}
+{"source":"Aktuálisan panaszmentes","target":"Currently asymptomatic"}
+{"source":"Láztalan","target":"Afebrile"}
+{"source":"Felsõ légúti infektív panasza","target":"Upper respiratory tract infectious complaint"}
+{"source":"Mellkasi, hasi panaszt negál","target":"Denies chest, abdominal complaints"}
+{"source":"Széklet, vizelet rendben","target":"Stool, urine in order"}
+{"source":"véresnek, feketének nem látta","target":"did not see as bloody, black"}
+{"source":"Dysbasiás panasz","target":"Dysbasia complaint"}
+{"source":"Nem sárga","target":"Not jaundiced"}
+{"source":"Hányás, vérhányás nem volt","target":"No vomiting, no hematemesis"}
+{"source":"Gyógyszerérzékenység","target":"Drug sensitivity"}
+{"source":"Gyógyszerei","target":"Medications"}
+{"source":"Prograf","target":"Prograf"}
+{"source":"Cellcept","target":"Cellcept"}
+{"source":"Solu medrol","target":"Solu-Medrol"}
+{"source":"Controloc","target":"Controloc"}
+{"source":"Cerucal","target":"Cerucal"}
+{"source":"Vit B1-6-12","target":"Vit B1-6-12"}
+{"source":"Konakion","target":"Konakion"}
+{"source":"Berodual","target":"Berodual"}
+{"source":"Vit c","target":"Vit C"}
+{"source":"Furon","target":"Furon"}
+{"source":"Verospiron","target":"Verospiron"}
+{"source":"Fraxiparine","target":"Fraxiparine"}
+{"source":"Tramadol","target":"Tramadol"}
+{"source":"sze.","target":"as needed"}
+{"source":"Jelen panaszok","target":"Current complaints"}
+{"source":"Jelen átvételére ITO-ról került sor","target":"Current transfer from ICU"}
+{"source":"májtranszplantáció után","target":"after liver transplantation"}
+{"source":"Általános állapota rendezett","target":"General condition stable"}
+{"source":"cr. stabil","target":"clinically stable"}
+{"source":"mellkasi panasza nincs","target":"no chest complaint"}
+{"source":"Hányás nincs","target":"No vomiting"}
+{"source":"enyhe hányingere","target":"mild nausea"}
+{"source":"Diagnózisok","target":"Diagnoses"}
+{"source":"Kód","target":"Code"}
+{"source":"DIAGNÓZISOK megnevezése","target":"Name of Diagnoses"}
+{"source":"Alkoholos májzsugorodás","target":"Alcoholic cirrhosis"}
+{"source":"Egyéb megjelölt anaemiák","target":"Other specified anemias"}
+{"source":"Nyelõcsõ varicositas vérzés nélkül","target":"Esophageal varices without bleeding"}
+{"source":"Beavatkozások","target":"Interventions"}
+{"source":"Megnevezés","target":"Description"}
+{"source":"Operatõr","target":"Surgeon"}
+{"source":"Vörösvérsejt koncentrátum","target":"Red blood cell concentrate"}
+{"source":"zárt ren","target":"closed system"}
+{"source":"Kiegészítõ pont besugárzott vér adá","target":"Supplementary irradiated blood administration"}
+{"source":"Kiegészítõ pont választott vér adás","target":"Supplementary selected blood administration"}
+{"source":"Transzfúzió során végzett tevékenys","target":"Activities performed during transfusion"}
+{"source":"Labor eredmények","target":"Lab results"}
+{"source":"Teljes vérkép","target":"Complete blood count"}
+{"source":"Fehérvérsejt szám","target":"White blood cell count"}
+{"source":"Neutrophil granulocyta %","target":"Neutrophil granulocyte %"}
+{"source":"Eosinophil granulocyta %","target":"Eosinophil granulocyte %"}
+{"source":"Basophil granulocyta %","target":"Basophil granulocyte %"}
+{"source":"Monocyta %","target":"Monocyte %"}
+{"source":"Lymphocyta %","target":"Lymphocyte %"}
+{"source":"Éretlen granulocyta %","target":"Immature granulocyte %"}
+{"source":"Neutrophil granulocyta #","target":"Neutrophil granulocyte absolute count"}
+{"source":"Eosinophil granulocyta #","target":"Eosinophil granulocyte absolute count"}
+{"source":"Basophyl granulocyta #","target":"Basophil granulocyte absolute count"}
+{"source":"Monocyta #","target":"Monocyte absolute count"}
+{"source":"Lymphocyta #","target":"Lymphocyte absolute count"}
+{"source":"Vörösvértest szám","target":"Red blood cell count"}
+{"source":"Hemoglobin","target":"Hemoglobin"}
+{"source":"Hematokrit","target":"Hematocrit"}
+{"source":"MCV","target":"MCV"}
+{"source":"MCH","target":"MCH"}
+{"source":"MCHC","target":"MCHC"}
+{"source":"RDW","target":"RDW"}
+{"source":"NRBC %","target":"NRBC %"}
+{"source":"NRBC #","target":"NRBC absolute count"}
+{"source":"Thrombocyta szám","target":"Platelet count"}
+{"source":"MPV","target":"MPV"}
+{"source":"Prothrombin idõ","target":"Prothrombin time"}
+{"source":"INR","target":"INR"}
+{"source":"CRP","target":"CRP"}
+{"source":"Glükóz","target":"Glucose"}
+{"source":"Karbamid","target":"Urea"}
+{"source":"Kreatinin","target":"Creatinine"}
+{"source":"GFR EPI","target":"GFR EPI"}
+{"source":"Bilirubin (össz)","target":"Bilirubin (total)"}
+{"source":"GOT (ASAT)","target":"GOT (AST)"}
+{"source":"GPT (ALAT)","target":"GPT (ALT)"}
+{"source":"GGT","target":"GGT"}
+{"source":"Alkalikus foszfatáz","target":"Alkaline phosphatase"}
+{"source":"LDH","target":"LDH"}
+{"source":"Amiláz (szérum)","target":"Amylase (serum)"}
+{"source":"Lipáz","target":"Lipase"}
+{"source":"Összfehérje","target":"Total protein"}
+{"source":"Albumin","target":"Albumin"}
+{"source":"Nátrium","target":"Sodium"}
+{"source":"Kálium","target":"Potassium"}
+{"source":"Megjegyzések","target":"Notes"}
+{"source":"Nem számolható","target":"Not calculable"}
+{"source":"Nem detektálható","target":"Not detectable"}
+{"source":"Képalkotó eredmények","target":"Imaging results"}
+{"source":"Nyílirányú mellkasfelvétel","target":"Anteroposterior chest X-ray"}
+{"source":"rekesz éles kontúrú","target":"diaphragm with sharp contours"}
+{"source":"lateralis sinusok szabadok","target":"lateral sinuses clear"}
+{"source":"Kóros intrapulmonalis eltérés nem látható","target":"No pathological intrapulmonary abnormality visible"}
+{"source":"szív nem nagyobb","target":"heart not enlarged"}
+{"source":"hilusi erek","target":"hilar vessels"}
+{"source":"aorta tágassága normális","target":"aorta width normal"}
+{"source":"jobb oldalról bevezetett kanül","target":"cannula inserted from the right side"}
+{"source":"VCS vetületében végzõdik","target":"terminates in the projection of the SVC"}
+{"source":"Natív hasi felvétel","target":"Plain abdominal X-ray"}
+{"source":"hasban szabad levegõ nem látható","target":"no free air visible in the abdomen"}
+{"source":"gyomorléghólyag megtartott","target":"gastric air bubble preserved"}
+{"source":"belek tágassága és gáztartalma normális","target":"bowel lumen and gas content normal"}
+{"source":"nívóképzõdés nem látható","target":"no fluid levels visible"}
+{"source":"metszésvonalnak megfelelõen fém kapocssor","target":"metal staple line corresponding to the incision line"}
+{"source":"Transzplantált máj doppler- ultrahang vizsgálta","target":"Transplanted liver Doppler ultrasound examination"}
+{"source":"máj mérete nem változott","target":"liver size unchanged"}
+{"source":"szerkezete homogén","target":"structure homogeneous"}
+{"source":"körülírt eltérés nem jelent meg benne","target":"no circumscribed abnormality appeared in it"}
+{"source":"epeutak nem tágabbak","target":"bile ducts not dilated"}
+{"source":"v. portaeban jó irányú áramlás van","target":"good flow direction in the portal vein"}
+{"source":"sebessége","target":"velocity"}
+{"source":"a. hepatica centrálisan és mindkét lebeny felé is ábrázolható","target":"hepatic artery visible centrally and towards both lobes"}
+{"source":"morfológiája továbbra is spike-os","target":"morphology is still spiky"}
+{"source":"áramlás megtartott","target":"flow preserved"}
+{"source":"RI","target":"RI"}
+{"source":"v. hepatica ágak áramlása trifázisos","target":"hepatic vein branches flow triphasic"}
+{"source":"VCI áramlása megtartott","target":"IVC flow preserved"}
+{"source":"lép keringése megtartott","target":"splenic circulation preserved"}
+{"source":"fossa hepatorenalisban hasi drain látható","target":"abdominal drain visible in the hepatorenal fossa"}
+{"source":"epehólyagágyban követett inhomogén szerkezetû folyadékgyülem","target":"inhomogeneous fluid collection followed in the gallbladder bed"}
+{"source":"húgyhólyagban katéterballonja ábrázolódik","target":"catheter balloon visible in the bladder"}
+{"source":"kevés szabad hasi folyadék a kismedencében","target":"small amount of free abdominal fluid in the lesser pelvis"}
+{"source":"jobb oldalon 4 cm vastag, bal oldalon minimális mennyiségû pleurális fluidum","target":"4 cm thick pleural fluid on the right side, minimal amount on the left side"}
+{"source":"v. hepatica ágak áramlása bi-trifázisos","target":"hepatic vein branches flow bi-triphasic"}
+{"source":"húgyhólyagban katéter ballonja, mellette kevés vizetet látható","target":"catheter balloon in the bladder, small amount of urine next to it"}
+{"source":"Szabad hasi folyadék nincs","target":"No free abdominal fluid"}
+{"source":"Mko. minimális pleuralis fluidum ábrázolódik","target":"Minimal pleural fluid visible bilaterally"}
+{"source":"Transzplantált máj UH és Doppler vizsgálata","target":"Transplanted liver ultrasound and Doppler examination"}
+{"source":"v. hepatica ágak áramlása monofázisos","target":"hepatic vein branches flow monophasic"}
+{"source":"Kevés hasi folyadék láthtó a belek között","target":"Small amount of abdominal fluid visible between the bowels"}
+{"source":"jobbh rekesz fölött 13 mm vastag pleuralis folyadék","target":"13 mm thick pleural fluid above the right diaphragm"}
+{"source":"pancreas test vizsgálható","target":"pancreas body examinable"}
+{"source":"Egyebekben változatlan status","target":"Otherwise unchanged status"}
+{"source":"húgyhólyag kp. telt, lumene szabad","target":"bladder moderately full, lumen clear"}
+{"source":"Has, kismedence UH és transzplantált máj Doppler-UH vizsgálata","target":"Abdominal, pelvic ultrasound and transplanted liver Doppler-ultrasound examination"}
+{"source":"pancreas a bélgázok miatt nehezen vizsgálható","target":"pancreas difficult to examine due to bowel gas"}
+{"source":"lép megnagyobbodott","target":"spleen enlarged"}
+{"source":"homogén","target":"homogeneous"}
+{"source":"vesék echoszerkezete szabályos","target":"kidney echostructure regular"}
+{"source":"bal vese kp. harmadában 30 mm cysta","target":"30 mm cyst in the middle third of the left kidney"}
+{"source":"hasi aortán és a környezõ retroperitoneumban kóros eltérés nem látszik","target":"no pathological abnormality visible on the abdominal aorta and surrounding retroperitoneum"}
+{"source":"Szabad folyadék nem látható","target":"No free fluid visible"}
+{"source":"húgyhólyag üres","target":"bladder empty"}
+{"source":"Vélemény","target":"Opinion"}
+{"source":"Megtartott szerkezetû és keringésû májgraft","target":"Liver graft with preserved structure and circulation"}
+{"source":"Cysta renis l.s.","target":"Renal cyst, left side"}
+{"source":"Epikrízis","target":"Epicrisis"}
+{"source":"beteget ALD Talaján kialakult májcirrhosis miatt vettük fel klinikánkra","target":"patient was admitted to our clinic due to liver cirrhosis developed on the basis of ALD"}
+{"source":"Elõkészítést követõen májátültetést (crossclamp) végeztünk standard technikával","target":"Following preparation, liver transplantation (cross-clamp) was performed using standard technique"}
+{"source":"beteget mûtõbõl AITK BKT ITO-ra helyeztük","target":"patient was transferred from the operating room to AITK BKT ICU"}
+{"source":"Stabil kardiopulonalis paraméterekkel került osztályos visszavételére sor","target":"Was readmitted to the ward with stable cardiopulmonary parameters"}
+{"source":"LAbor monitorizálás mellett a máj necroenzim szintjei, regrediáltak","target":"Liver necroenzyme levels regressed with lab monitoring"}
+{"source":"máj szintetikus, secretios functioja beindult","target":"liver's synthetic, secretory function started"}
+{"source":"Álatlános állapota folyamatosan javult","target":"General condition continuously improved"}
+{"source":"Sebészeti szövõdményt nem észleltünk","target":"No surgical complications observed"}
+{"source":"Gravis anaemia miatt 400ml VVt cc. transfusiojában részesült","target":"Received 400ml RBC concentrate transfusion due to severe anemia"}
+{"source":"Ma emittáljuk","target":"Today we discharge"}
+{"source":"sebészeti és hepatologiai kontroll ambulanciánkon megbeszélés szerint","target":"surgical and hepatological follow-up at our outpatient clinic as agreed"}
+{"source":"Prednisolon","target":"Prednisolone"}
+{"source":"Valcyte","target":"Valcyte"}
+{"source":"Sumetrolim","target":"Sumetrolim"}
+{"source":"Aspirin","target":"Aspirin"}
+{"source":"klinikai fõorvos","target":"chief physician"}
+{"source":"osztályos orvos","target":"ward physician"}
+{"source":"osztályvezetõ","target":"head of department"}
